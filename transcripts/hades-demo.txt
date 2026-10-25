@@ -1,0 +1,30 @@
+Good day everyone, the beautiful interface you see before yourself is of my project HadeS.
+A local AI-powered teaching assistant that takes your learning videos and turns them
+into an interactive AI tutor. Just think about it, instead of going through hours and hours
+of videos just to revise a single concept or clear a doubt, what if you could simply ask
+the questions and get the answer directly from the source? One of the biggest advantages of
+HadeS is that it runs completely locally, keeping your learning data private. It also
+provides exact timestamps for its answers so you do not just have to trust what the AI says,
+you can verify it from the source yourself by the embedded player given in HadeS.
+For this current demonstration, we have three datasets, a machine learning one, a Python one,
+and a quantum computing one. Let's use python for this one. Suppose I want to learn functions,
+I will simply ask HadeS a question about them and as you can see HadeS semantically searches
+through its vector databases to find the most relevant chunks of their video transcripts.
+It retrieves their relevant information and then sends it to our locally running Ollama model
+and generates an answer based on the source material, that's why it's grounded and here is the
+interesting part. It doesn't just give you an answer, it shows you where the answer came from.
+I can click on the source and watch the original video right here, at the exact timestamp where
+the information was discussed. To play that video you need an internet connection,
+but HadeS itself runs completely offline.
+And if I want to test my understanding, I can quiz myself
+directly with HadeS. Let's try another question, this time about variables. Once again HadeS retrieves
+the relevant information and generates an answer with its sources, making it easier to revise
+concepts without manually searching through the entire video but learning doesn't stop at asking
+questions. After we have had a discussion, we can ask HadeS to summarize the entire chat and give
+us a quick overview of everything we have covered and if we want something that we can revise later,
+we have the function of downloading the study guide right here. It basically turns your entire
+chat into notes and we can also generate a summary after three questions. So that's HadeS,
+a completely local AI teaching assistant that combines video-based learning,
+semantic search, timestamp sources, self-quizzing and automatic study notes in one place.
+The goal is simple, folks, spend less time searching through the
+learning material and more time actually learning. Thank you.
